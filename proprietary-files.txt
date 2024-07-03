@@ -1,4 +1,4 @@
-# Extracted from husky-ap1a.240405.002.b1-factory-d548f99d.zip
+# Extracted from husky-ap2a.240705.005-factory-5cd8df1e.zip
 
 # Lockscreen clocks
 system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk

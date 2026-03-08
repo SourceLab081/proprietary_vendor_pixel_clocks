@@ -17,5 +17,6 @@
         <item>com.android.systemui.clocks.inflate</item>
         <item>com.android.systemui.clocks.metro</item>
         <item>com.android.systemui.clocks.numoverlap</item>
+        <item>com.android.systemui.clocks.weather</item>
     </string-array>
 </resources>

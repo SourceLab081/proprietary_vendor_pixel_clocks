@@ -1,4 +1,4 @@
-# Extracted from caiman-ota-bp4a.251205.006
+# Extracted from caiman-ota-cp2a.260605.012
 
 # Lockscreen clocks
 system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk

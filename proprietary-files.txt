@@ -3,6 +3,7 @@
 # Lockscreen clocks
 system_ext/priv-app/SystemUIClocks-BigNum/SystemUIClocks-BigNum.apk
 system_ext/priv-app/SystemUIClocks-Calligraphy/SystemUIClocks-Calligraphy.apk
+system_ext/priv-app/SystemUIClocks-Flex/SystemUIClocks-Flex.apk
 system_ext/priv-app/SystemUIClocks-Growth/SystemUIClocks-Growth.apk
 system_ext/priv-app/SystemUIClocks-Inflate/SystemUIClocks-Inflate.apk
 system_ext/priv-app/SystemUIClocks-Metro/SystemUIClocks-Metro.apk
